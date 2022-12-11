@@ -2,8 +2,8 @@ from concurrent import futures
 import logging
 
 import grpc
-import TempoServico_pb2
-import TempoServico_pb2_grpc
+//import TempoServico_pb2
+//import TempoServico_pb2_grpc
 
 empDB=[
  {
